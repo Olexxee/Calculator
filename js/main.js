@@ -27,5 +27,5 @@ function calculate(i) {
 }
 
 clear.onclick = function () {
-  screen.innerHTML = "0";
+  screen.innerHTML = "";
 }; // clear button functionality
