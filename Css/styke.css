@@ -117,6 +117,7 @@ body {
 @media (max-width: 700px) {
   .container {
     height: 60vh;
+    width: 100%;
   }
   .main-section {
     width: 60%;
